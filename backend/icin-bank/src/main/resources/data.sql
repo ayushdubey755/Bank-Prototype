@@ -25,9 +25,9 @@ ACCOUNT_BALANCE_PRIMARY,
 ACCOUNT_BALANCE_SAVINGS
 ) values (
 '987654321',
-'Akshat Bisht',
+'Ayush Dubey',
 'ICIN0002',
-'Ghaziabad',
+'Bhopal',
 0,
 2100.10,
 9600.76
